@@ -27,7 +27,6 @@ encoding//User/system_ch32v00x.c=GBK
 encoding//User/system_ch32v00x.h=GBK
 encoding//obj/Core/subdir.mk=GBK
 encoding//obj/Debug/subdir.mk=GBK
-encoding//obj/Peripheral/src/ch32v00x_opa.d=GBK
 encoding//obj/Peripheral/src/subdir.mk=GBK
 encoding//obj/Startup/subdir.mk=GBK
 encoding//obj/User/subdir.mk=GBK
